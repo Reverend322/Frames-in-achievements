@@ -1,0 +1,21 @@
+.b-badge img:hover {
+    border: 2px solid #6495ED;
+}
+
+.b-achievement .c-image .inner>a .border:hover {
+    border: 3px solid #6495ED !important;
+}
+
+.b-badge>img {
+    border: 2px solid #484848;
+    transition: all 85ms linear;
+}
+
+.b-achievement .c-image .inner>a .border {
+    border: 3px solid #484848 !important;
+    transition: all 85ms linear;
+}
+
+.b-achievement.is-badge:before {
+    border-radius: 3px;
+}
